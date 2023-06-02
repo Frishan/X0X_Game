@@ -1,0 +1,3 @@
+Contributia mea in acest proiect este crearea si implementarea functiilor def next_turn si def empty_spaces
+In functia def next_turn se verifica daca exista un castigator sau nu, sau daca este egalitate. Daca nu exista inca un castigator sau daca meciul nu a ajuns la egalitate, se continua jocul.
+In functia empty_spaces se verifica daca mai sunt casute disponibile (nemarcate) din cele totale. Daca sunt casute disponibile, se contiuna jocul, daca nu mai sunt casute disponibile se decide rezultatul!

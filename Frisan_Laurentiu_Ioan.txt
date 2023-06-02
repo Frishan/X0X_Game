@@ -1,0 +1,3 @@
+Frisan Laurentiu Ioan
+
+Eu am facut partea de verificare in caz de castig ( functia check_winner). In aceasta functie am parcurs fiecare rand urmat de fiecare coloana si de diagonale si am verificat daca textul din interiorul butoanelor sunt lafel ( exceptand spatiul). Daca unul din if urile mentionate este adevarat butoanele parcurse se coloreaza in verde; In caz contrar si daca nu mai e nici un buton gol se coloreaza toate butoanele in Galben si se v-a afisa textul:"Try again!!"

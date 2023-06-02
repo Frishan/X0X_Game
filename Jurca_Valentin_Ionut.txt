@@ -1,0 +1,2 @@
+Contributia mea in acest proiect este crearea si implementarea functiei new_game
+In functia new_game se alege jucatorul care incepe random, se realizeaza mapa 2d de 3 linii si 3 coloane si se creaza butonul de reset.
